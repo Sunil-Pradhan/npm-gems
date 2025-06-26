@@ -53,3 +53,113 @@ A handpicked collection of essential, useful, and powerful npm packages to boost
     <td><a href="https://www.npmjs.com/package/rc-table">Link</a></td>
   </tr>
 </table>
+
+
+
+## 💅 Styling & UI
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Radix UI</strong></td>
+    <td>A pristine, open-source library of unstyled, accessible React primitives designed for building high-quality design systems.</td>
+    <td><a href="https://www.npmjs.com/package/radix-ui">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>ShadCN UI</strong></td>
+    <td>A “copy‑and‑paste” React + Tailwind + Radix UI toolkit delivering accessible, customizable components and starter kits; popular but governance is slower on some PRs.</td>
+    <td><a href="https://github.com/shadcn-ui/ui">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Keep React</strong></td>
+    <td>An open-source Tailwind‑based React component library offering pre‑designed, responsive UI elements.</td>
+    <td><a href="https://www.npmjs.com/package/keep-react">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Chakra UI</strong></td>
+    <td>A polished, accessible, composable React UI system with built‑in dark mode and WAI‑ARIA compliance.</td>
+    <td><a href="https://www.npmjs.com/package/@chakra-ui/react">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Fluent UI</strong></td>
+    <td>Microsoft’s official React implementation of the Fluent Design System, feature-rich and enterprise-grade.</td>
+    <td><a href="https://www.npmjs.com/package/@fluentui/react">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>RSuite</strong></td>
+    <td>An actively maintained, TypeScript‑ready React component suite with comprehensive, modern UI elements for building desktop-first web UIs.</td>
+    <td><a href="https://www.npmjs.com/package/rsuite">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Evergreen</strong></td>
+    <td>Segment’s polished, enterprise‑grade React UI framework built on composable primitives; works out‑of‑the‑box with strong defaults and theming .</td>
+    <td><a href="https://www.npmjs.com/package/evergreen-ui">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Flowbite React</strong></td>
+    <td>A pre‑release React + Tailwind CSS component library based on Flowbite design system, offering 30+ interactive components with dark‑mode support.</td>
+    <td><a href="https://www.npmjs.com/package/flowbite-react">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Reakit</strong></td>
+    <td>Unstyled, accessible primitives & hooks for building React UI libraries or apps.</td>
+    <td><a href="https://github.com/ariakit/ariakit">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Grommet</strong></td>
+    <td>Athemable, modular React framework focusing on accessibility and responsiveness, built on styled‑components.</td>
+    <td><a href="https://github.com/grommet/grommet">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Material‑UI</strong></td>
+    <td>Google’s flagship Material Design React UI framework with comprehensive, production‑ready components.</td>
+    <td><a href="https://www.npmjs.com/package/@mui/material">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Ant Design</strong></td>
+    <td>Enterprise-grade React UI library implementing Ant Design spec with TypeScript support; widely used.</td>
+    <td><a href="https://www.npmjs.com/package/antd">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>React Spectrum</strong></td>
+    <td>Adobe’s polished, accessible design system for React with comprehensive components; actively maintained and production among Adobe ecosystems.</td>
+    <td><a href="https://www.npmjs.com/package/@adobe/react-spectrum">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>HeroUI</strong></td>
+    <td>Lightweight React toolkit offering simple, styled components based on Hero design aesthetics; good for clean minimal interfaces.</td>
+    <td><a href="https://www.npmjs.com/package/@heroui/react">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Tailwind CSS</strong></td>
+    <td>Utility-first CSS framework for rapid UI development; highly popular.</td>
+    <td><a href="https://www.npmjs.com/package/tailwindcss">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Blueprint</strong></td>
+    <td>A comprehensive React-based UI toolkit by Palantir optimized for complex, data-dense desktop-style web apps; Apache‑2.0 licensed and best suited for feature-rich interfaces.</td>
+    <td><a href="https://github.com/palantir/blueprint">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>React Admin</strong></td>
+    <td>A robust, open-source framework for building B2B/SPAs with React, supporting REST/GraphQL APIs and CRUD interfaces out‑of‑the‑box; maintained by Marmelab with recent releases and enterprise-grade features.</td>
+    <td><a href="https://marmelab.com/react-admin/Tutorial.html">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Park UI</strong></td>
+    <td>A modular, framework-agnostic component library built on Ark UI & Panda CSS, offering customizable, design-system-ready UI blocks for React, Vue, and Solid.</td>
+    <td><a href="https://park-ui.com/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Headless UI</strong></td>
+    <td>Completely unstyled, fully accessible React components (menus, dialogs, lists, etc.) designed for seamless Tailwind CSS integration; MIT‑licensed and recently updated.</td>
+    <td><a href="https://www.npmjs.com/package/@headlessui/react">Link</a></td>
+  </tr>
+</table>
+
+
+

@@ -2,6 +2,9 @@
 
 A handpicked collection of essential, useful, and powerful npm packages to boost your development workflow. From productivity tools to performance optimizers, this repo keeps you updated with the best packages every developer should know!
 
+- [✨ Awesome NPM Gems – Essential Packages for Devs](#-awesome-npm-gems--essential-packages-for-devs)
+	- [🧩 Utility Libraries](#-utility-libraries)
+	- [💅 Styling \& UI](#-styling--ui)
 
 
 ## 🧩 Utility Libraries
@@ -51,6 +54,16 @@ A handpicked collection of essential, useful, and powerful npm packages to boost
     <td><strong>RC Table</strong></td>
     <td>A lightweight, MIT‑licensed React table UI component with built‑in TypeScript, summary rows, virtualization support.</td>
     <td><a href="https://www.npmjs.com/package/rc-table">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>date-fns</strong></td>
+    <td>A modern JavaScript date utility library offering over 200 functions for formatting, parsing, and manipulating dates with immutable, pure functions; lightweight and tree-shakeable.</td>
+    <td><a href="https://www.npmjs.com/package/date-fns">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>RC Table</strong></td>
+    <td>A widely used JavaScript utility library providing modular functions for arrays, objects, strings, and more; known for improving performance and code readability.</td>
+    <td><a href="https://www.npmjs.com/package/lodash">Link</a></td>
   </tr>
 </table>
 

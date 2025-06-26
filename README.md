@@ -61,7 +61,7 @@ A handpicked collection of essential, useful, and powerful npm packages to boost
     <td><a href="https://www.npmjs.com/package/date-fns">Link</a></td>
   </tr>
 	<tr>
-    <td><strong>RC Table</strong></td>
+    <td><strong>Lodash</strong></td>
     <td>A widely used JavaScript utility library providing modular functions for arrays, objects, strings, and more; known for improving performance and code readability.</td>
     <td><a href="https://www.npmjs.com/package/lodash">Link</a></td>
   </tr>

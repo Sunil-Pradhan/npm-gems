@@ -3,8 +3,30 @@
 A handpicked collection of essential, useful, and powerful npm packages to boost your development workflow. From productivity tools to performance optimizers, this repo keeps you updated with the best packages every developer should know!
 
 - [✨ Awesome NPM Gems – Essential Packages for Devs](#-awesome-npm-gems--essential-packages-for-devs)
-	- [🧩 Utility Libraries](#-utility-libraries)
-	- [💅 Styling \& UI](#-styling--ui)
+  - [🚀 Core Essentials](#-core-essentials)
+  - [🧩 Utility Libraries](#-utility-libraries)
+  - [💅 Styling \& UI](#-styling--ui)
+
+## 🚀 Core Essentials
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>React Fast Marquee</strong></td>
+    <td>An opinionated code formatter for JavaScript, TypeScript, HTML, CSS, and more—automatically formats code for consistency and readability.</td>
+    <td><a href="https://www.npmjs.com/package/prettier">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>ESLint</strong></td>
+    <td>A powerful JavaScript/TypeScript linter that helps detect and fix code issues, enforce coding standards, and maintain consistent style across your project.</td>
+    <td><a href="https://www.npmjs.com/package/eslint">Link</a></td>
+  </tr>
+</table>
+
 
 
 ## 🧩 Utility Libraries

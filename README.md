@@ -16,7 +16,7 @@ A handpicked collection of essential, useful, and powerful npm packages to boost
     <th>Link</th>
   </tr>
   <tr>
-    <td><strong>React Fast Marquee</strong></td>
+    <td><strong>Prettier</strong></td>
     <td>An opinionated code formatter for JavaScript, TypeScript, HTML, CSS, and more—automatically formats code for consistency and readability.</td>
     <td><a href="https://www.npmjs.com/package/prettier">Link</a></td>
   </tr>
